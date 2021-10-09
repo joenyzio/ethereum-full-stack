@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ethereum-full-stack/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ethereum-full-stack/static/js/main.f2257035.chunk.js",
+    "main.js.map": "/ethereum-full-stack/static/js/main.f2257035.chunk.js.map",
+    "runtime-main.js": "/ethereum-full-stack/static/js/runtime-main.d475fe20.js",
+    "runtime-main.js.map": "/ethereum-full-stack/static/js/runtime-main.d475fe20.js.map",
+    "static/js/2.f14db99e.chunk.js": "/ethereum-full-stack/static/js/2.f14db99e.chunk.js",
+    "static/js/2.f14db99e.chunk.js.map": "/ethereum-full-stack/static/js/2.f14db99e.chunk.js.map",
+    "static/js/3.fcae6be5.chunk.js": "/ethereum-full-stack/static/js/3.fcae6be5.chunk.js",
+    "static/js/3.fcae6be5.chunk.js.map": "/ethereum-full-stack/static/js/3.fcae6be5.chunk.js.map",
+    "index.html": "/ethereum-full-stack/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ethereum-full-stack/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f14db99e.chunk.js.LICENSE.txt": "/ethereum-full-stack/static/js/2.f14db99e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d475fe20.js",
+    "static/js/2.f14db99e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f2257035.chunk.js"
+  ]
+}
